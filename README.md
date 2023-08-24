@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=315ks343c3umkqfa37zmk3hzxffq&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=315ks343c3umkqfa37zmk3hzxffq&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=fff9b8&bar_color_cover=false)]]
+
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=315ks343c3umkqfa37zmk3hzxffq&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=fff9b8&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=315ks343c3umkqfa37zmk3hzxffq&redirect=true)
 
 
 <!---
